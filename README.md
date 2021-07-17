@@ -1,10 +1,3 @@
----
-title: 'Build a CRUD application on the blockchain'
-date: '2021-07-15'
-author: 'Alex Tsuji'
-author_site: https://asooge.github.io/
----
-
 Blockchain technology today allows developers to create decentralized web applications by deploying smart contracts to the blockchain and interacting with the contracts from a frontend interface. Most web developers are familiar with at least one frontend framework such as React or Vue which are perfect for interfacing with blockchain contracts, but how does one begin to create a decentralized application without the smart contract? Let's explore a popular tool called Ethereum Remix that allows developers to explore the world of smart contracts inside a web sandbox, similiar to codesandbox.io but for Solidity. Write, compile, and deploy your contract and interface with the contract all from a web interface. No terminal required.
 
 ## Prerequisites:
